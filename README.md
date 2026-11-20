@@ -14,10 +14,10 @@ PuckPulseTV brings live hockey scores, schedules, standings, player stats, and d
 | Platform | Status | Download |
 |---|---|---|
 | Windows 10/11 (64-bit) | Available | [Download the latest installer](https://github.com/Linkbytedev/puckpulsetvapp/releases/latest) |
-| Android phone/tablet | Available | [Download release APK](https://github.com/Linkbytedev/puckpulsetvapp/releases/latest) |
-| Android TV | Coming soon | Watch this repository for updates |
+| Android phone/tablet | Coming soon | Watch this repository for updates |
+| Linux (AppImage / .deb) | In development | Available in upcoming release |
 
-For most Windows users, choose **`PuckPulseTV-Setup-1.0.1.exe`**. It installs the app, creates shortcuts, and includes an uninstaller. The portable version runs without installation.
+For most Windows users, choose **`PuckPulseTV-Setup-1.0.0.exe`**. It installs the app, creates shortcuts, and includes an uninstaller. The portable version runs without installation.
 
 > Windows may show an â€œUnknown publisherâ€ message while the app is unsigned. Download releases only from this repository or [puckpulsetv.ca](https://puckpulsetv.ca).
 
@@ -32,7 +32,7 @@ For most Windows users, choose **`PuckPulseTV-Setup-1.0.1.exe`**. It installs th
 ## Install on Windows
 
 1. Open [Releases](https://github.com/Linkbytedev/puckpulsetvapp/releases/latest).
-2. Download **`PuckPulseTV-Setup-1.0.1.exe`**.
+2. Download **`PuckPulseTV-Setup-1.0.0.exe`**.
 3. Open the installer and select your install location and shortcut options.
 4. Launch PuckPulseTV from the desktop or Start menu.
 
