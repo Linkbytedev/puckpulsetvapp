@@ -1,0 +1,12 @@
+# Release binaries belong in GitHub Releases, not Git history.
+*.exe
+*.msi
+*.apk
+*.aab
+*.zip
+*.blockmap
+
+# Local files
+.DS_Store
+Thumbs.db
+desktop.ini

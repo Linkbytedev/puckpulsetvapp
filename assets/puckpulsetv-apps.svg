@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">PuckPulseTV Apps</title>
+  <desc id="desc">Live hockey scores, standings, stats and game centers.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#071116"/>
+      <stop offset="1" stop-color="#0b2529"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="84%" cy="20%" r="70%">
+      <stop stop-color="#08cbd2" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#08cbd2" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="360" rx="32" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="32" fill="url(#glow)"/>
+  <path d="M0 307C210 255 340 358 566 302s390-25 634 24v34H0z" fill="#08cbd2" opacity=".08"/>
+  <g transform="translate(78 70)">
+    <rect width="90" height="90" rx="24" fill="#08cbd2" opacity=".12"/>
+    <path d="M25 48h40M31 35h28M35 61h20" stroke="#08cbd2" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="45" cy="48" r="30" fill="none" stroke="#eafcff" stroke-width="4"/>
+  </g>
+  <text x="195" y="115" fill="#08cbd2" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="4">PUCKPULSETV APPS</text>
+  <text x="78" y="222" fill="#f4fbfc" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="800">Your hockey. On your screen.</text>
+  <text x="80" y="278" fill="#9bb0b5" font-family="Segoe UI, Arial, sans-serif" font-size="24">Scores · Standings · Stats · Game Centers</text>
+  <g transform="translate(940 74)" fill="none" stroke="#08cbd2">
+    <rect width="174" height="212" rx="18" stroke-width="4" opacity=".9"/>
+    <rect x="18" y="18" width="138" height="134" rx="10" stroke-width="2" opacity=".5"/>
+    <circle cx="87" cy="182" r="10" fill="#08cbd2" stroke="none"/>
+  </g>
+</svg>
